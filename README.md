@@ -14,3 +14,7 @@
 生成测试数据为.in/.out
 
 在answer_make.py第15行中可以修改编译参数
+
+
+
+转载于gitpetyr
